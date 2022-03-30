@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    font-family: arial;
+}
+
+input {
+    background-color: aliceblue;
+    border-color: lightblue;
+    border: 1px solid lightblue;
+    border-radius: 24px;
+    min-width: 100px;
+}
+
+input[type="text"] {
+    min-width: 500px;
+    min-height: 25px;
+}
+
+table {
+    color: DarkSlateBlue;
+    margin-left: auto;
+    margin-right: 1px;
+    padding: 3px
+}
+
+#other_pages {
+    font-size: 14px;
+}
+
+td {
+    padding: 3px
+}
+
+.search_buttons {
+    border-radius: 4px;
+    height: 36px;
+    min-width: 54px;
+}
+
+h1 {
+    color: midnightblue
+}
